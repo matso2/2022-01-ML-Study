@@ -1,1 +1,1 @@
-# 2022-AI-ML-Study
+# 2022-01-ML-Study
